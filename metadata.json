@@ -1,0 +1,5 @@
+{
+  "name": "AI Industrial Report Generator",
+  "description": "An application that uses AI to generate personalized technical PDF reports from a web form. The user, acting as a technical consultant, provides details about an industrial process, and the AI produces a report with optimization suggestions.",
+  "requestFramePermissions": []
+}
